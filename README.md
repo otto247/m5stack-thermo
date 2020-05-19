@@ -1,2 +1,4 @@
-# m5stack-thermo
-Thermography with M5Stack/AMG8833
+# m5stack_thermo
+m5stack with AMG8833
+
+TODO: add details
